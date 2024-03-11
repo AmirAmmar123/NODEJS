@@ -1,0 +1,15 @@
+Server REST API:
+GET/ POST / PUT/ DELETE 
+Return Data JSON Not HTML
+why?
+- HTML IS HEAVY (many of the information is not related to the DATA (TAGS, DEV, FORMS,...etc))
+- HTML IS FROM OTHER LOCATION
+- CLIENT is (ANDROID / SERVER) not using HTML  
+-------------------------------------
+Client:
+calls the server 
+
+HTML/DESKTOP/MOBILE => all those devices can send request to the server API
+
+
+once i call GET i want to read all the details from the API 
